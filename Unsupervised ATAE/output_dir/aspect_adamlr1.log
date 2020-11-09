@@ -1,0 +1,54 @@
+Aspect 0:
+banks:0.64243823 psbs:0.60439366 borrowers:0.59360445 write:0.5886086 defaulters:0.586673 npa:0.58170676 nationalised:0.57463294 nationalized:0.5603121 npas:0.553796 performing_assets_npas:0.5383314 defaulted:0.52531374 rbi:0.5174717 borrowing:0.5127495 lenders:0.5123538 performing_assets:0.503611 loans:0.49880877 bank:0.49400276 waived:0.49324 loan:0.48661536 sbi:0.48337 lending:0.46977925 nbfcs:0.46728483 corporates:0.46627912 debts:0.4568319 borrowings:0.4444875 rrbs:0.4424149 atms:0.44205153 deposits:0.4381008 credit:0.43511814 waiver:0.4315138
+
+Aspect 1:
+naxalites:0.5793259 encounters:0.56571585 civilians:0.5594224 insurgency:0.55826527 naxalite:0.5511816 terrorists:0.54956126 encounter:0.5453467 militants:0.53246856 maoists:0.53141654 firing:0.52670044 killings:0.52636003 bsf:0.5193554 extremists:0.51543117 fighting:0.50014037 crpf:0.4990638 naxals:0.49834105 jawans:0.4970255 militant:0.48950908 naxalism:0.48698533 paramilitary:0.48245892 maoist:0.48022318 troops:0.478316 innocent:0.47806734 itbp:0.4773869 rifles:0.47584245 killing:0.47497398 attacks:0.47306758 policemen:0.46745655 forces:0.46359697 strikes:0.45207262
+
+Aspect 2:
+power:0.7383057 mw:0.57289934 thermal:0.54923457 energy:0.5010782 megawatt:0.49828285 megawatts:0.48642477 ntpc:0.48321828 solar:0.45642835 hydro:0.4547004 reactors:0.45366308 plants:0.44905674 generation:0.4464547 electricity:0.4449619 reactor:0.4367052 generating:0.43480933 nuclear:0.4215678 renewable:0.4186265 ultra_mega:0.4166286 nhpc:0.41016912 umpps:0.40783525 wind:0.40581015 kudankulam:0.40232986 rooftop:0.3924785 hydel:0.38759568 grid:0.37995166 npcil:0.3796748 atomic:0.3759302 fuel:0.3734654 jaitapur:0.36419547 ramagundam:0.360095
+
+Aspect 3:
+constitutional:0.4830001 lokpal:0.4825034 petition:0.48135155 judgement:0.46622112 hearing:0.4591902 petitions:0.44874555 appeal:0.44691226 rajya_sabha:0.4430902 honble:0.4401713 cic:0.43994668 cpc:0.4311912 observations:0.42189077 anomalies:0.41222855 ceo:0.41177595 judgment:0.40485144 legislations:0.40233028 commissions:0.40159577 verdict:0.4009452 reply:0.4003332 constitution:0.39900538 composition:0.39254466 legislative:0.39237335 appeals:0.39110065 court:0.38949597 ordinance:0.38869196 lok_sabha:0.3878812 filing:0.3878184 passed:0.38725948 hon_ble:0.38643515 writing:0.3843888
+
+Aspect 4:
+phone:0.53317297 calls:0.50285745 sim:0.5003964 mobile:0.48666978 unsolicited:0.48399395 customers:0.46510732 roaming:0.454265 signals:0.4455465 phones:0.44404417 sms:0.4438264 networks:0.44106895 mobiles:0.43546534 vodafone:0.43469292 telephones:0.4339583 telephony:0.4336793 portability_mnp:0.43159395 landline:0.43088698 internet:0.4257001 messages:0.42009318 voice:0.40890712 providers:0.40740776 gsm:0.4073872 telecom:0.40154117 cable:0.3978666 towers:0.39368916 operators:0.39283276 subscribers:0.39143503 cellular:0.38982043 misleading_advertisements:0.3895735 computers:0.38775402
+
+Aspect 5:
+learning:0.54822946 graduation:0.5391913 taught:0.53914154 students:0.5361477 iits:0.5356715 teacher:0.5331137 universities:0.5320707 iims:0.52937555 affiliated:0.52627 courses:0.52405924 admissions:0.51823336 textbooks:0.51723635 campuses:0.5151168 cbse:0.5088521 studying:0.50875133 sanskrit:0.5066812 academic:0.50497127 admission:0.50092375 schools:0.49514496 colleges:0.49449798 coaching:0.49021792 nits:0.49014974 degrees:0.4860455 navodaya:0.48232695 pursue:0.4796915 institutes:0.47438085 secondary:0.46902514 exams:0.46722373 teachers:0.46578822 undergraduate:0.46517232
+
+Aspect 6:
+railway:0.7206861 railways:0.61287725 trains:0.4766518 rail:0.46354297 tracks:0.451939 platforms:0.42783463 emu:0.42184597 suburban:0.41997504 railwaysa:0.4162978 broad_gauge:0.41482055 junction:0.4070273 train:0.403516 passenger:0.3996883 shatabdi:0.39624685 divisions:0.39609787 narrow_gauge:0.3953848 rangia:0.39432728 station:0.3866291 gauge_conversion:0.38480294 ticketing:0.3839743 stalls:0.38049197 duronto:0.3779444 compartments:0.3756845 rajdhani:0.37303948 irctc:0.3722859 superfast:0.3669872 coach:0.36047608 coaches:0.3599391 ticket:0.3495962 secunderabad:0.34848136
+
+Aspect 7:
+washington:0.58381844 brazil:0.5701585 malaysia:0.5619406 israel:0.5608385 germany:0.5591737 maldives:0.5532171 canada:0.5396016 afghanistan:0.53739893 brics:0.53271896 pact:0.52944505 saarc:0.5287635 russia:0.52760464 asean:0.5236858 uk:0.5181889 korea:0.5179757 kingdom:0.5106369 iran:0.5095867 mauritius:0.50955653 america:0.50706726 negotiations:0.5060212 fta:0.5050119 vietnam:0.50317216 paris:0.50287616 dialogue:0.50047624 bilateral:0.50023127 africa:0.49790016 counterpart:0.49285585 indonesia:0.48939112 ties:0.48513478 summit:0.47881925
+
+Aspect 8:
+lignite:0.5660069 bauxite:0.5639455 ore:0.55981505 mines:0.5512919 leases:0.5212077 coal:0.5156626 manganese:0.50068766 mcl:0.47766227 mining:0.47425652 gmdc:0.46915206 mahanadi_coalfields:0.46888044 iron_ore:0.4675757 vedanta:0.46460447 mine:0.4595284 miners:0.45858705 coalfields:0.45798397 minerals:0.45743075 extraction:0.44242033 excavation:0.4348501 mineral:0.43278006 posco:0.4249838 drilling:0.42421663 lease:0.42408895 bccl:0.42034745 captive:0.41978747 stone:0.41036692 sand:0.40644214 blocks:0.3945533 hills:0.39242175 forests:0.37828156
+
+Aspect 9:
+years:0.6188282 last:0.6181695 three:0.53180206 year:0.41514406 yearwise:0.4150878 five:0.3020517 two:0.29299232 wise:0.28762713 programmefor:0.2802537 current:0.27481845 months:0.26858586 past:0.2566492 mohlai:0.25302804 rests:0.25087667 fdr:0.2436024 mtcr:0.2373082 saurashtraand:0.23668046 chichira:0.23543428 postgraduates:0.23355699 ucil:0.23211347 inpossession:0.23086576 shatab:0.22956724 ucbs:0.22861668 naicker:0.22800145 sovereignity:0.22770825 corresponding:0.22665726 kalam:0.22640313 tangdar:0.22605622 magwani:0.22450045 interested:0.22322038
+
+Aspect 10:
+onion:0.5926287 onions:0.58513474 wheat:0.58040375 rice:0.57817274 pulses:0.57443696 potato:0.5581822 rabi:0.5559225 produces:0.5552908 bumper:0.55451024 soyabean:0.55068254 quintal:0.5492178 paddy:0.54917806 cereals:0.54502714 mustard:0.54472476 edible:0.53648996 tomato:0.5343447 vegetables:0.52325696 edible_oils:0.5191368 dal:0.51876634 sugarcane:0.5160638 maize:0.51467896 horticultural:0.5114781 oilseeds:0.509373 fruits:0.5057755 grains:0.5020992 kharif:0.5016637 arhar:0.50006014 acreage:0.49873596 sowing:0.49759328 vegetable:0.49542004
+
+Aspect 11:
+flights:0.6443242 air:0.64181733 flight:0.6281105 ai:0.5906743 airlines:0.5852343 aircrafts:0.5153912 runway:0.50333303 carrier:0.5016544 carriers:0.5011606 landing:0.49753094 fleet:0.48505512 airports:0.47672832 kingfisher:0.4766788 airline:0.47447467 aircraft:0.4557725 airport:0.45201856 cargo:0.44610232 aai:0.4393531 jet_airways:0.43704724 pilots:0.43408003 jet:0.433846 flying:0.43041778 minute:0.4275099 privatise:0.41321528 fares:0.41137725 dreamliner:0.4113691 trivandrum:0.40957475 planes:0.40769947 baggage:0.40692985 boarding:0.4022688
+
+Aspect 12:
+infants:0.570923 children:0.541494 kids:0.5248751 aged:0.52065563 anaemia:0.50742996 destitute:0.4913391 malnutrition:0.48120627 mothers:0.47844166 malnourished:0.4571086 marriage:0.45365262 child:0.44156015 beggars:0.44155937 abused:0.44125757 begging:0.4402874 underweight:0.44016978 married:0.43992612 leprosy:0.43980756 juveniles:0.43858293 prevalence:0.43271828 elderly:0.43014804 female:0.42624253 abuse:0.4231524 trafficked:0.42295337 orphanages:0.42221332 juvenile:0.41888446 marriages:0.41334653 mortality:0.41282707 adult:0.41024327 hiv:0.40988827 rape:0.4067624
+
+Aspect 13:
+handicraft:0.48828274 apparel:0.47946995 handicrafts:0.41839373 leather:0.406087 cottage:0.40537575 msme:0.40044728 textiles:0.3978952 competitiveness:0.3963842 tourism:0.39321083 textile:0.3908145 intensive:0.3836701 promoting:0.38175887 industry:0.36504748 agro:0.3596403 attracting:0.3589138 thrust:0.3576262 oriented:0.35405648 handloom:0.35367882 innovation:0.34607255 cluster:0.3394738 inclusive:0.3391275 fpis:0.33879116 handlooms:0.3382604 cooperatives:0.3357646 powerloom:0.33078498 processing:0.32975432 clusters:0.32869136 dairy:0.3281823 cruise:0.32068336 msmes:0.32037812
+
+Aspect 14:
+                yojana:0.51517135 bima:0.49723232 swarozgar:0.49541074 rsby:0.47212738 ujjwala:0.47187293 pmjdy:0.4693631 sgsy:0.46933895 deen_dayal_upadhyaya:0.46700016 jyoti:0.46536753 nirman:0.4623083 rashtriya_swasthya_bima:0.4551606 iay:0.4546559 pmksy:0.45323467 grameen:0.45320982 jan_dhan:0.44935915 awaas:0.4480659 swarojgar:0.44717717 rajiv:0.4423455 grameen_vidyutikaran:0.4412307 nirmal:0.42356026 awas:0.4153939 swarnjayanti:0.41483474 gramin:0.41253275 saansad_adarsh:0.41100794 sagy:0.40796208 aay:0.40614098 deendayal:0.40571257 sabla:0.40053952 abhiyan:0.39697534 rggvy:0.3936587
+
+Aspect 15:
+highway:0.6218492 highways:0.6042226 lane:0.57847327 nh:0.56431437 roads:0.55337626 road:0.53923255 laning:0.53409326 stretches:0.5308225 expressways:0.52710253 nhs:0.5167612 stretch:0.51410776 ring:0.510615 expressway:0.50750005 lanes:0.47649014 km:0.4755601 bypass:0.47442478 kms:0.4739195 nhai:0.46996433 nhdp:0.4695945 flyovers:0.46797416 length:0.45148516 bridges:0.44292304 widening:0.43445534 toll:0.4278713 golden_quadrilateral:0.42299038 kilometers:0.41163325 toll_plazas:0.40437645 rampur:0.4037649 bridges_robs:0.40371943 bro:0.3917636
+
+Aspect 16:
+doctors:0.42775336 specialists:0.42639282 engineers:0.4163864 contractual:0.41239578 unani:0.4118293 specialist:0.40851927 esi:0.40679842 dispensaries:0.40392375 safdarjung_hospital:0.39592963 nursing:0.39428782 empanelled:0.3891781 sciences_aiims:0.3824044 cghs:0.3817466 ayurvedic:0.37711817 deputation:0.37620068 employee:0.3735945 hospital:0.36946207 retired:0.36919355 retirement:0.36910784 employeesa:0.3679226 dispensary:0.3664683 resigned:0.36474097 employees:0.3582476 inducted:0.35666722 ayurveda:0.354762 esic:0.35090905 hands:0.35068986 quit:0.35056505 homoeopathy:0.34582105 cabin_crew:0.34471536
+
+Aspect 17:
+water:0.6372561 groundwater:0.5164565 lakes:0.47856402 contamination:0.4606947 river:0.46013206 ponds:0.4589483 ground:0.45515525 polluted:0.4517787 arsenic:0.45034516 harvesting:0.4466353 effluents:0.44400913 rivers:0.4371758 drinking:0.43574893 rain:0.429183 tributaries:0.42212024 yamuna:0.41775554 potable:0.4134987 ganga:0.41057214 depletion:0.40079308 fluoride:0.38495493 reservoirs:0.37868854 flood:0.3717495 surface:0.37067372 flows:0.3701769 depleting:0.36589253 soil:0.36015812 toxic:0.3580683 flowing:0.35219568 narmada:0.34992024 glaciers:0.34619495
+
